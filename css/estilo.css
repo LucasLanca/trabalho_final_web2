@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/fundo.jpg);
+  background-size: 100%;
+  color: rgb(255, 153, 0);
+}
+.jumbotron {
+  background-image:url(../img/trono.jpg);
+  background-size: 100%;
+  color: rgb(255, 255, 0);
+}
+form {
+  background-color: GhostWhite;
+  color: white;
+}
+table {
+  background-color: LightSteelBlue;
+}

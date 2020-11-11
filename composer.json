@@ -1,0 +1,14 @@
+{
+    "name": "lucas_lanca/final",
+    "description": "Projeto Final da Cadeira de WEBII",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Rodrigues Lança",
+            "email": "lucas.rodrigues.lanca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
